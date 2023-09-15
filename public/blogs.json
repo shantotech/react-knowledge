@@ -1,0 +1,52 @@
+[
+    {
+        "id": 12345,
+        "cover_img": "https://i.ibb.co/P6BFFZy/top-view-workspace-with-laptop-cup-tea.jpg",
+        "title": "Exploring the Mysteries of Deep Space",
+        "author": "John A. Astronomer",
+        "author_img": "https://i.ibb.co/Fzn2JMb/young-bearded-man-with-striped-shirt.jpg",
+        "posted_date": "August 25, 2023",
+        "reading_time": 10,
+        "hashtags": ["#Space", "#Astronomy", "#Exploration"]
+    },
+    {
+        "id": 67890,
+        "cover_img": "https://i.ibb.co/P6BFFZy/top-view-workspace-with-laptop-cup-tea.jpg",
+        "title": "The Art of Culinary Delights",
+        "author": "Chef Julia Gourmet",
+        "author_img": "https://i.ibb.co/Fzn2JMb/young-bearded-man-with-striped-shirt.jpg",
+        "posted_date": "September 5, 2023",
+        "reading_time": 15,
+        "hashtags": ["#Foodie", "#Cooking", "#Gourmet"]
+    },
+    {
+        "id": 23456,
+        "cover_img": "https://i.ibb.co/P6BFFZy/top-view-workspace-with-laptop-cup-tea.jpg",
+        "title": "Mastering Productivity and Time Management",
+        "author": "Samantha Procrastination-Slayer",
+        "author_img": "https://i.ibb.co/Fzn2JMb/young-bearded-man-with-striped-shirt.jpg",
+        "posted_date": "July 12, 2023",
+        "reading_time": 8,
+        "hashtags": ["#Productivity", "#TimeManagement", "#Efficiency"]
+    },
+    {
+        "id": 78901,
+        "cover_img": "https://i.ibb.co/P6BFFZy/top-view-workspace-with-laptop-cup-tea.jpg",
+        "title": "The World of Fantasy Literature",
+        "author": "Sir Arthur Fantasy-Writer",
+        "author_img": "https://i.ibb.co/Fzn2JMb/young-bearded-man-with-striped-shirt.jpg",
+        "posted_date": "June 2, 2023",
+        "reading_time": 12,
+        "hashtags": ["#Fantasy", "#Literature", "#Books"]
+    },
+    {
+        "id": 34567,
+        "cover_img": "https://i.ibb.co/P6BFFZy/top-view-workspace-with-laptop-cup-tea.jpg",
+        "title": "Health and Wellness: A Journey to Well-being",
+        "author": "Dr. Wellness Guru",
+        "author_img": "https://i.ibb.co/Fzn2JMb/young-bearded-man-with-striped-shirt.jpg",
+        "posted_date": "August 15, 2023",
+        "reading_time": 20,
+        "hashtags": ["#Health", "#Wellness", "#SelfCare"]
+    }
+]
